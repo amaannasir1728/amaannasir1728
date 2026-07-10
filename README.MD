@@ -6,11 +6,9 @@
 
 <div align="center">
 
-# Hi, I'm Amaan Abbasi 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montenegrin+Gothic+One&size=50&duration=1&pause=1000&color=432D85&width=435&lines=AMAAN+ABBASI" alt="Typing SVG" /></a>
 
-### **AI Engineer • Machine Learning Engineer • Generative AI Developer**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=900&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Retrieval-Augmented+Generation+(RAG);Python+Developer+%7C+Open-Source+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&size=30&pause=1000&width=435&separator=%3C&lines=AI+Engineer%7CMachine+Learning+Engineer%7CGenerative+AI+Developer%7CBuilding+Production-Ready+AI+Applications;Python+%7C+LangChain+%7C+RAG+%7C+LLMs%7CAlways+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 <br><br>
 
