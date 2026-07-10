@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montenegrin+Gothic+One&size=50&duration=1&pause=1000&color=432D85&width=435&lines=AMAAN+ABBASI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&size=35&pause=1000&color=432D85&width=435&lines=AMAAN+ABBASI" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&size=30&pause=1000&width=435&separator=%3C&lines=AI+Engineer%7CMachine+Learning+Engineer%7CGenerative+AI+Developer%7CBuilding+Production-Ready+AI+Applications;Python+%7C+LangChain+%7C+RAG+%7C+LLMs%7CAlways+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&pause=1000&color=432D85&width=435&lines=AI+Engineer+%7C+Machine+Learning+Engineer+%7C;%7C+Generative+AI+Developer+%7C;%7C+Building+Production-Ready+AI+Applications+%7C+Python+%7C+LangChain+%7C+RAG+%7C+LLMs+%7C+Always+Learning+%7C+Always+Building;Always+Building!!+" alt="Typing SVG" /></a>
 
 <br><br>
 
